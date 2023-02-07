@@ -1,0 +1,52 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    width: 100vw;
+    background-color: #001249;
+    position: relative;
+
+}
+
+header
+{
+   background-color:  rgba(30, 216, 230, 0.734);
+   color: black;
+   text-align: center;
+   padding: 20px;
+   width: 100vw;
+}
+
+.icons
+{
+    color:white;
+    font-size: 5rem;
+    text-align: center;
+    position: absolute;
+    left:50%;
+    top:50%;
+    transform: translate(-50%,-50%);
+    vertical-align: baseline;
+    display: flex;
+    
+
+}
+
+.icn1{
+  padding: 70px;
+}
+
+.h51
+{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+.counter
+{
+    color:rgb(245, 230, 23);
+}
